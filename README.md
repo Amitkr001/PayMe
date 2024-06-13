@@ -1,6 +1,6 @@
-# PayTM Clone
+# PayMe
 
-Welcome to the PayTM Clone project! This project aims to replicate the basic functionality of PayTM, allowing users to perform transactions, view their account balance, and interact with other users.
+Welcome to the PayMe project! This project aims to replicate the basic functionality of PayTM, allowing users to perform transactions, view their account balance, and interact with other users.
 
 ## Features
 
@@ -17,7 +17,7 @@ Welcome to the PayTM Clone project! This project aims to replicate the basic fun
 
 ## Getting Started
 
-To get started with the PayTM Clone project, follow these steps:
+To get started with the PayMe project, follow these steps:
 
 1. **Clone the Repository**: Clone the repository from GitHub:
 
